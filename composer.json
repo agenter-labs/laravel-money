@@ -1,5 +1,5 @@
 {
-   "name":"akaunting/laravel-money",
+   "name":"agenter-labs/laravel-money",
    "description":"Currency formatting and conversion package for Laravel",
    "keywords":[
       "laravel",
